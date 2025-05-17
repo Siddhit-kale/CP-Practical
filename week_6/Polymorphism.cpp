@@ -29,10 +29,10 @@ int main() {
     Rectangle r;
 
     shapePtr = &c;
-    shapePtr->draw();  // Output: Drawing a circle
+    shapePtr->draw(); 
 
     shapePtr = &r;
-    shapePtr->draw();  // Output: Drawing a rectangle
+    shapePtr->draw();  
 
     return 0;
 }
