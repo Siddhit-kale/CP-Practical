@@ -1,5 +1,6 @@
-#include<bits/stdc++.h>
-uisng namespace std;
+#include <bits/stdc++.h>
+#include <vector>
+using namespace std;
 
 class Solution {
 public:
